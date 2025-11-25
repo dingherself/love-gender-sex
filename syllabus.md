@@ -46,7 +46,12 @@ date: 2025-11-25
 
 ## Course Description
 
-How should we live together? This course considers and critiques received answers to this question from the history of Western philosophy. We will spend the first half of the semester working our way through the development of modern political philosophy as a field. We will then take a deep dive into the political critiques that emerged from the civil rights, anti-war, women’s liberation, and gay rights movements of the 1960s, which are being rediscovered and recentered in political philosophy today.
+*What does it mean to love, and what does it take to love well?* Must true love make us “happy ever after”? Should love be exclusive? Is love between individuals or could it be communal and even political? How does love relate to gender and sex, and how might the experiences of queer, trans, and intersex people both complicate and illuminate these connections?
+
+*What is gender anyway?* How do we figure that out? Is it a mere coincidence that the English term ‘sex’ refers to both an activity and a system of categorization? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? 
+
+This course surveys philosophical questions about love, gender, and sex, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy. It is designed to be friendly to all students regardless of philosophical background.
+
 
 ## [Schedule]({{ site.baseurl }}{% link schedule.html %})
 
