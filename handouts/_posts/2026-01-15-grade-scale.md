@@ -15,7 +15,7 @@ This blew my mind and changed my life. I was not just born a perfectionist; I wa
 I’d love to try something similar in our class. Really, think of this as a 7-point scale: if your goal is an A, aim for a 7.
 
 - 10: Perfection (impossible).
-- 9.5: This is among the best philosophy I’ve ever read.
+- 9.5: This is among the best philosophy I’ve ever read (think Plato).
 - 9.0: Fully competent journal article; “publishable.”
 - 8.5: Excellent seminar paper by PhD students.
 - 8: This is *truly so good*; it goes well beyond my expectations for undergraduate students.
