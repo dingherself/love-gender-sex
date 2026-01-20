@@ -2,7 +2,7 @@
 layout: post
 title: "Our Wacky Grading Scale"
 module: "Assignments"
-categories: nodate
+tag: nodate
 ---
 
 One of the best times I had in grad school was a seminar taught by my doctoral advisor Jason Turner, who graded us on a funny scale.
