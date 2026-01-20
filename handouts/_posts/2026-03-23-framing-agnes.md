@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Break <em>Framing Agnes</em> Movie Night Assignment
+title: Spring Break <em>Framing Agnes</em> Movie Night
 module: "Assignments"
 ---
 
