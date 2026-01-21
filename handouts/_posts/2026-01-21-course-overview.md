@@ -70,7 +70,7 @@ We will approach this class as a themed first course in philosophy.
 - Read the assigned texts carefully and critically before class (see also the participation section of our syllabus for advice).
 - Come to class with questions or just things you want to discuss from the readings!
 - Bring a copy of the readings with you.
-- There will be a handout posted the course website, but take your own notes as well.
+- There will be a handout posted to the course website, but take your own notes as well.
 - Talk through your thoughts with the class, and ask lots of questions.
 - Ideas are powerful—don’t underestimate them!
 - They are also deeply personal relevant; philosophy isn’t just intellectual. Think about the ideas in this class in relation to your own experiences and the world around you!
