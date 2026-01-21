@@ -76,7 +76,7 @@ All students deserve to be able to study and make use of course texts and materi
 Final course grades will be awarded on the following basis:
 
 - [Participation](#participation): 15%
-- [Five Reading discussions (“shorties”)](#shorties): 20%
+- [Five short reading discussions (“shorties”)](#shorties): 20%
 - [Two response papers](#response-papers): 40%
 - [Final project](#final-project): 25%
 
