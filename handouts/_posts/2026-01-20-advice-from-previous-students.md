@@ -11,7 +11,7 @@ When I taught this class last spring at the University of Arizona, I gave studen
 ## Generally
 
 - “While this class may seem a little silly at first, it truly is mind-opening if you follow the readings and lectures. I have learned a lot about myself and others from this class.”
-- “I would say ask questions. Come with an open minded. Get ready to think about things in ways you didn’t think about before. Watch the movies, documentaries. See and hear other people’s perspectives. Take time to think to yourself too, time to reflect on the topics and maybe even see how some or all of them apply to you.”
+- “I would say ask questions. Come with an open mind. Get ready to think about things in ways you didn’t think about before. Watch the movies, documentaries. See and hear other people’s perspectives. Take time to think to yourself too, time to reflect on the topics and maybe even see how some or all of them apply to you.”
 - “Be more open-minded. Kind of basic but it’s true. Going into this class I wasn’t sure what to expect, but as we discussed and I was able to listen and understand other opinions and understanding it helped me realize how to open my mind to the world.”
 - “No matter how quiet/shy you are, find a friend during the first week that you can text if you miss class [or] don’t understand a reading.”
 - “Tell [future students] not to be afraid to explore new things.”
