@@ -48,7 +48,7 @@ The questions we will ask
 Love, gender, and sex raise all kinds of big philosophical questions, even though feminist philosophy as a subfield only began to form in the 1980s:
 
 - *Metaphysics* (the nature of reality): What is the nature of love, gender, and sex?
-- *Epistemology* (theory of knowledge): How do we know love, gender, and sex to be? How do love, gender, and sex in turn shape what we know/don’t know?
+- *Epistemology* (theory of knowledge): How do we to know love, gender, and sex? How do love, gender, and sex in turn shape what we know/don’t know?
 - *Ethics* (what’s good/bad, right/wrong, etc.): What are good ways to love? Is gender oppressive, liberatory, something else? Were the Barnard radfems right about porn in [1982](https://dcmny.org/do/ddeaaa24-e69d-42b8-a765-a0288ccea0fa)?
 - *Political Philosophy* (how should we live together?): How should we organize and structure love, gender, and sex as social institutions?
 
