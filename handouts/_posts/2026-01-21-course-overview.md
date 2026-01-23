@@ -31,7 +31,7 @@ module: "Introduction"
 - The global rise of anti-trans movements: Plato censored in Texas, [philosophers’ role in drafting the HHS report](https://www.erininthemorning.com/p/fact-check-trumps-hhs-review-on-trans), [the suicide of Middlebury trans woman student athlete Lia Smith](https://www.them.us/story/lia-smith-vermont-trans-trump-transphobia-suicide-middlebury), [“Defending Women from Gender Ideology” executive order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/), [ending of rape protections for incarcerated trans/intersex people](https://19thnews.org/2025/12/trump-administration-plans-to-end-prison-rape-protections-for-trans-and-intersex-people-memo-says/), etc.
 - “[Manly tariffs](https://www.foxnews.com/video/6371196367112)”
 - Tucker Carlson’s project of “[testicle tanning](https://xcancel.com/RonFilipkowski/status/1515817464533291018)”
-- [Keir Starmer’s “island of stranger” speech](https://www.theguardian.com/world/2025/may/12/uk-risks-becoming-island-of-strangers-without-more-immigration-curbs-starmer-says)
+- [Keir Starmer’s “island of strangers” speech](https://www.theguardian.com/world/2025/may/12/uk-risks-becoming-island-of-strangers-without-more-immigration-curbs-starmer-says)
 - RFK Jr.’s obsession with [testosterone](https://www.youtube.com/watch?v=FuF0iEcXDw4&t=81s) and [teen fertility](https://www.jezebel.com/rfk-jr-suggests-not-enough-teens-are-getting-pregnant-rails-against-youth-testosterone-levels)
 - The cultural war over [soy milk](https://www.salon.com/2023/03/01/dairy-pride-and-soy-boys-the-heated-identity-of-non-dairy-milk/), [veggie](https://www.youtube.com/watch?v=MxhU4A0RXV8) [burgers](https://impossiblefoods.com/media/news-releases/impossible-foods-kicks-off-marketing-campaign-featuring-new-brand-identity), and more
 - After the gay frag, the [genderless penguin chicks](https://www.youtube.com/watch?v=0YXpMtymtVE)
@@ -48,7 +48,7 @@ The questions we will ask
 Love, gender, and sex raise all kinds of big philosophical questions, even though feminist philosophy as a subfield only began to form in the 1980s:
 
 - *Metaphysics* (the nature of reality): What is the nature of love, gender, and sex?
-- *Epistemology* (theory of knowledge): How do we know love, gender, and sex to be? How do love, gender, and sex in turn shape what we know/don’t know?
+- *Epistemology* (theory of knowledge): How do we to know love, gender, and sex? How do love, gender, and sex in turn shape what we know/don’t know?
 - *Ethics* (what’s good/bad, right/wrong, etc.): What are good ways to love? Is gender oppressive, liberatory, something else? Were the Barnard radfems right about porn in [1982](https://dcmny.org/do/ddeaaa24-e69d-42b8-a765-a0288ccea0fa)?
 - *Political Philosophy* (how should we live together?): How should we organize and structure love, gender, and sex as social institutions?
 
@@ -70,7 +70,7 @@ We will approach this class as a themed first course in philosophy.
 - Read the assigned texts carefully and critically before class (see also the participation section of our syllabus for advice).
 - Come to class with questions or just things you want to discuss from the readings!
 - Bring a copy of the readings with you.
-- There will be a handout posted the course website, but take your own notes as well.
+- There will be a handout posted to the course website, but take your own notes as well.
 - Talk through your thoughts with the class, and ask lots of questions.
 - Ideas are powerful—don’t underestimate them!
 - They are also deeply personal relevant; philosophy isn’t just intellectual. Think about the ideas in this class in relation to your own experiences and the world around you!
