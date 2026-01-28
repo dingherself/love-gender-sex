@@ -8,8 +8,7 @@ module: "Love"
 
 - Wrap up course logistics
 - Introduce the *Symposium*
-- Two ways of giving a definition: Phaedrus & Eryximachus
-- Two kinds of love: Pausanias
+- Phaedrus, Eryximachus, Pausanias
 - Aristophanes’ comedic myth
 
 ## Plato’s <u>Symposium</u>
@@ -69,7 +68,6 @@ What Plato tells us:
   - *Philía*: More “friendly” (by contemporary light), affectionate/non-passionate love.
   - *Agapé*: Selfless, benevolent, unconditional love.
   - “Platonic love,” ironically, is *erôs*.
-
 - The layers:
   - We hear the story of Apollodorus telling an unnamed friend the story of him telling Glaucon the story of the symposium.
   - Apollodorus heard the story from Phoenix, who heard it from Aristodemus who was at the party.
@@ -89,7 +87,6 @@ What Plato tells us:
 - A *teleological* theory of X: An account of what X is in terms of its end/purpose (*télos*). [Elizabeth]
   - The *télos* of an acorn is an oak tree.
 - Love’s connection to shame? [Elsa, Tiffany, Joselyn]
-
 
 ### Pausanias
 
@@ -132,5 +129,4 @@ What Plato tells us:
   - The men split from the original spherical men are “most manly in their nature,” and are the only ones “who grow up to be real men in politics. When they’re grown men, they are lovers of young men, and they naturally pay no attention to marriage or to making babies” so they get to do the serious stuff (192a–b).
 - Love: Longing to become whole with your other half, your meant-to-be (191d–192e). [June]
   - The penetration problem again
-
 - Socrates flirts with Agathon, whose turn it is now to speak.
