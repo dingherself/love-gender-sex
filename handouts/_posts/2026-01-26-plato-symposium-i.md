@@ -20,7 +20,7 @@ Dialogue: Philosophical conversation written as fictional play/drama, often usin
 
 Symposium: “Drinking together” for aristocratic men.
 
-- Held in the [*andron*](https://natmus.dk/museer-og-slotte/nationalmuseet/undervisning-paa-nationalmuseet/undervisningsmaterialer/ungdomsuddannelserne/antiksamlingen/vin-og-kaerlighed-det-graeske-symposion/fester-for-guder-og-mennesker/det-graeske-symposion/) (men’s room/man cave) of the house, with couches lined against the walls.
+- Held in the [*andron*](https://web.archive.org/web/20250324153414/https://natmus.dk/museer-og-slotte/nationalmuseet/undervisning-paa-nationalmuseet/undervisningsmaterialer/ungdomsuddannelserne/antiksamlingen/vin-og-kaerlighed-det-graeske-symposion/fester-for-guder-og-mennesker/det-graeske-symposion/) (men’s room/man cave) of the house, with couches lined against the walls.
 - Dignified women (wives and daughters) are prohibited; courtesans (but not hookers) may be hired for entertainment and sex.
 - Functions to facilitate intellectual as well as bodily pleasure—eat, drink, recite poetry, talk philosophy, and enjoy sex.
 - Also serves as an important site for *pederastic* relationships among male Athenian aristocrats.
