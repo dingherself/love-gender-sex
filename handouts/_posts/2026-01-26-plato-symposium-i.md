@@ -96,7 +96,7 @@ What Plato tells us:
 - There are two kinds of Love, because there are two goddesses of Love: The Common/Vulgar Aphrodite (attracted to women/the body) vs. the Heavenly Aphrodite (attracted to “what is by nature stronger and more intelligent”/the soul). [Amelie, Eva, Inica, Lindsay, Jemma, Natalie]
 - Love is directed at the Beautiful.
 
-### Aristophanes (False Start)
+### Aristophanes (false start)
 
 - Aristophanes is supposed to go next, but gets bad hiccups, and so it’s Eryximachus’s turn now (185c).
 - Why?
@@ -113,7 +113,7 @@ What Plato tells us:
 
 - Aristophanes flirts with Eryximachus (189a–d).
 
-### Aristophanes (Finally!)
+### Aristophanes (finally!)
 
 - Aristophanes writes comedies, and the story he’s about to tell us is hilarious—but is he also serious, or is he just bullshitting for funsies?
 - There used to be three genders: Male (the sun), female (the earth), and “androgynous” (the moon) (189e–190c).
