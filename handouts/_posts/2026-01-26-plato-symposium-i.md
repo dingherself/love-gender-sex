@@ -111,7 +111,7 @@ What Plato tells us:
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg mb-4"><thead>
   <tr>
     <th class="tg-c3ow"><span style="font-weight:700;font-style:normal;text-decoration:none">Aphrodite Pandemos</span></th>
     <th class="tg-c3ow"><span style="font-weight:700;font-style:normal;text-decoration:none">Aphrodite Urania</span></th>
