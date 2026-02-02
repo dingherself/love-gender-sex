@@ -173,7 +173,7 @@ What Plato tells us:
   - An original spherical man -> two gay men.
   - An original spherical woman -> two lesbian women.
   - An original spherical androgynous person -> a straight man and a straight woman.
-  - Bisexuals? Aro/ace? Poly?
+  - Bisexuals? Aro/ace? Poly? (Somewhat resolved in Diotina?)
 - This didn’t work: The halves would not do anything but embrace each other trying to become one again, not even eat (191a–b).
 - So Zeus tried again: He moved everybody’s genitalia around too (191c).
   - So when a male-half embraces a female-half, they can make babies (reproduction “*by* the man *in* the woman”).
