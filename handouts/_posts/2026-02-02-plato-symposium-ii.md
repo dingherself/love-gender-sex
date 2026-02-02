@@ -80,7 +80,7 @@ Socrates then proceeds to recite a conversation he had with a priestess Diotima.
     - It turns out that the “people” here are men!
     - “Platonic love”
 
-### The Ascent of Love [June, Sierra]
+### The Ascent of Love [Juniper, Sierra]
 
 - Initially, “if the leader [Love] leads aright, he should love one body and beget beautiful ideas there” (210a).
 - Then, “he should realize that the beauty of any one beauty is brother to the beauty of any other.”
