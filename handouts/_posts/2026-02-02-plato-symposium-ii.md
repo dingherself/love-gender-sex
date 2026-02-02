@@ -29,7 +29,7 @@ module: "Love"
   - It’s not clear, though, whether Socrates went on to tell the truth about Love.
 
 
-## Agathon Interlude
+## Agathon interlude
 
 The socratic method/elenchus: Intense interrogation leading one to realize that one’s initial view isn’t so tenable after all.
 
