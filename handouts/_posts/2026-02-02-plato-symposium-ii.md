@@ -13,8 +13,9 @@ module: "Love"
 
 ## Warm-up activity
 
-- In your experience, why do people yearn for love? [Bobby]
-- Are you interested in being in love? Why or why not?
+1. In your experience, why do people yearn for love? [Bobby]
+2. What difference, if any, is there between love at first glance and Love the real deal?
+3. Are you interested in being in love? Why or why not?
 
 ## Agathon [Leah]
 
