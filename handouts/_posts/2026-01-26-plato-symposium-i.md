@@ -126,8 +126,12 @@ What Plato tells us:
     <td class="tg-0pky">Heavenly</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Attracted to women/the body</td>
-    <td class="tg-0pky">Attracted to “what is by nature stronger and more intelligent”/the soul</td>
+    <td class="tg-0pky">Attracted to the body</td>
+    <td class="tg-0pky">Attracted to the soul</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Attracted to women</td>
+    <td class="tg-0pky">Attracted to “what is by nature stronger and more intelligent”</td>
   </tr>
 </tbody></table>
 </center>
