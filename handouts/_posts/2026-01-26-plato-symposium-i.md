@@ -118,8 +118,8 @@ What Plato tells us:
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Motherless daughter of Uranus</span></td>
-    <td class="tg-0pky">Daughter of Zeus and Dione</span></td>
+    <td class="tg-0pky">Motherless daughter of Uranus</td>
+    <td class="tg-0pky">Daughter of Zeus and Dione</td>
   </tr>
   <tr>
     <td class="tg-0pky">Common/Vulgar</td>
