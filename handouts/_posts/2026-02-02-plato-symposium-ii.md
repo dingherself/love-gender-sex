@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plato, <em>Symposium</em> I
+title: Plato, <em>Symposium</em> II
 module: "Love"
 ---
 
