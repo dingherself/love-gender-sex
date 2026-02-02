@@ -8,7 +8,7 @@ module: "Love"
 
 - Wrap up course logistics
 - Introduce the *Symposium*
-- Phaedrus, Eryximachus, Pausanias
+- Phaedrus, Pausanias, Aristophanes’ hiccup, Eryximachus
 - Aristophanes’ comedic myth
 
 ## Plato’s <u>Symposium</u>
@@ -83,20 +83,67 @@ What Plato tells us:
 ### Phaedrus
 
 - The educational function of pederasty is achieved through love (178c).
-- More generally, Love directs a person to virtue, “even if she’s a woman” (179b).
+  - More generally, Love directs a person to virtue, “even if she’s a woman” (179b).
+
 - A *teleological* theory of X: An account of what X is in terms of its end/purpose (*télos*). [Elizabeth]
   - The *télos* of an acorn is an oak tree.
-- Love’s connection to shame? [Elsa, Tiffany, Joselyn]
+- *Erôs* plays a role in the good life.
+  - It operates psychologically through shame and honor. [Elsa, Tiffany, Joselyn]
+  - But how does this work for the beloved, who is not supposed to experience a reciprocal *erôs* for his lover?
+  - And what about when Love makes us sad, jealous, angry, unreasonable, insecure, reckless, etc.? [Elizabeth, James]
+
 
 ### Pausanias
 
-- There are two kinds of Love, because there are two goddesses of Love: The Common/Vulgar Aphrodite (attracted to women/the body) vs. the Heavenly Aphrodite (attracted to “what is by nature stronger and more intelligent”/the soul). [Amelie, Eva, Inica, Lindsay, Jemma, Natalie]
+- Two lurking problems:
+  - Could the educational and ruinous sides of *erôs* be reconciled?
+  - What’s in it for the *eromenos*?
+
+- Pausanias: There are two kinds of Love, because there are two goddesses of Love. [Amelie, Eva, Inica, Lindsay, Jemma, Natalie]
+
+<center>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:inherit;border-style:solid;border-width:1px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:inherit;border-style:solid;border-width:1px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow"><span style="font-weight:700;font-style:normal;text-decoration:none">Aphrodite Pandemos</span></th>
+    <th class="tg-c3ow"><span style="font-weight:700;font-style:normal;text-decoration:none">Aphrodite Urania</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Motherless daughter of Uranus</span></td>
+    <td class="tg-0pky">Daughter of Zeus and Dione</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Common/Vulgar</td>
+    <td class="tg-0pky">Heavenly</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Attracted to women/the body</td>
+    <td class="tg-0pky">Attracted to “what is by nature stronger and more intelligent”/the soul</td>
+  </tr>
+</tbody></table>
+</center>
+
 - Love is directed at the Beautiful.
 
 ### Aristophanes (false start)
 
 - Aristophanes is supposed to go next, but gets bad hiccups, and so it’s Eryximachus’s turn now (185c).
-- Why?
+  - Eryximachus’ name means literally ‘hiccup fighter.’
+  - We are invited to imagine Aristophanes hiccuping *through* Eryximachus’ speech.
+- If the *Symposium* is meticulously orchestrated by Plato, why?
+  - Comic significance?
+  - Dramatic significance?
+  - Philosophical significance??
+
 
 ### Eryximachus
 
@@ -109,10 +156,12 @@ What Plato tells us:
   - When Vulgar Love “controls the seasons, he brings death and destruction”; when Heavenly Love is in charge, “men and all other living things are in good health” (188a). [Sophia]
 
 - Aristophanes flirts with Eryximachus (189a–d).
+  - Is there an implicit objection?
+
 
 ### Aristophanes (finally!)
 
-- Aristophanes writes comedies, and the story he’s about to tell us is hilarious—but is he also serious, or is he just bullshitting for funsies?
+- Aristophanes writes comedies, and the story he’s about to tell us is hilarious—but is he also serious?
 - There used to be three genders: Male (the sun), female (the earth), and “androgynous” (the moon) (189e–190c).
   - The original human beings were spherical, with one head, two faces, four legs, four arms, etc.
   - They were too powerful and tried to overthrow the gods.
@@ -127,6 +176,9 @@ What Plato tells us:
   - So when a male-half embraces a female-half, they can make babies (reproduction “*by* the man *in* the woman”).
   - So when a male-half embraces a male-half, “they would at least have the satisfaction of intercourse, after which they could stop embracing, return to their jobs, and look after their other needs in life.” (What about the lesbians?)
   - The men split from the original spherical men are “most manly in their nature,” and are the only ones “who grow up to be real men in politics. When they’re grown men, they are lovers of young men, and they naturally pay no attention to marriage or to making babies” so they get to do the serious stuff (192a–b).
-- Love: Longing to become whole with your other half, your meant-to-be (191d–192e). [June]
-  - The penetration problem again
+  - [Is it emasculating to love women?](https://xcancel.com/cobratate/status/1783049915800736108)
+- Love: Longing to become whole with your other half, your meant-to-be (191d–192e). [June, Luyu]
+  - Is wholeness achievable? Not even penetration can fuse two halves into a lasting whole.
+  - Is wholeness desirable? Vulgar love sits closest to wholeness.
+  - Is the comedy a closeted tragedy?
 - Socrates flirts with Agathon, whose turn it is now to speak.
