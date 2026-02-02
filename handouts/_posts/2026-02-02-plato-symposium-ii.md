@@ -25,6 +25,7 @@ module: "Love"
   - Best analysis of love a non-philosopher could do.
   - Rhetorically beautiful yet feels empty?
   - Close to sophistry?
+  - Comic to come from a tragic poet?
 - Everybody except Socrates loves Agathon’s speech: “In my foolishness, I thought you should tell the truth about whatever you praise” (198d).
   - It’s not clear, though, whether Socrates went on to tell the truth about Love.
 
