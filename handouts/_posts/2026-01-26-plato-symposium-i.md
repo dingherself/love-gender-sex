@@ -180,7 +180,7 @@ What Plato tells us:
   - So when a male-half embraces a female-half, they can make babies (reproduction “*by* the man *in* the woman”).
   - So when a male-half embraces a male-half, “they would at least have the satisfaction of intercourse, after which they could stop embracing, return to their jobs, and look after their other needs in life.” (What about the lesbians?)
   - The men split from the original spherical men are “most manly in their nature,” and are the only ones “who grow up to be real men in politics. When they’re grown men, they are lovers of young men, and they naturally pay no attention to marriage or to making babies” so they get to do the serious stuff (192a–b).
-  - [Is it emasculating to love women?](https://xcancel.com/cobratate/status/1783049915800736108)
+  - Is it [gay](https://xcancel.com/cobratate/status/1783049915800736108) and/because [emasculating](https://youtu.be/NRuH8yjGK2U?si=OT1ZJCphipKGU5C-&t=3324) for men to love women?
 - Love: Longing to become whole with your other half, your meant-to-be (191d–192e). [June, Luyu]
   - Is wholeness achievable? Not even penetration can fuse two halves into a lasting whole.
   - Is wholeness desirable? Vulgar love sits closest to wholeness.
