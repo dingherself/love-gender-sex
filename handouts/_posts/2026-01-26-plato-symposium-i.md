@@ -84,7 +84,6 @@ What Plato tells us:
 
 - The educational function of pederasty is achieved through love (178c).
   - More generally, Love directs a person to virtue, “even if she’s a woman” (179b).
-
 - A *teleological* theory of X: An account of what X is in terms of its end/purpose (*télos*). [Elizabeth]
   - The *télos* of an acorn is an oak tree.
 - *Erôs* plays a role in the good life.
@@ -98,8 +97,7 @@ What Plato tells us:
 - Two lurking problems:
   - Could the educational and ruinous sides of *erôs* be reconciled?
   - What’s in it for the *eromenos*?
-
-- Pausanias: There are two kinds of Love, because there are two goddesses of Love. [Amelie, Eva, Inica, Lindsay, Jemma, Natalie]
+- Pausanias (Agathon’s lover): There are two kinds of Love, because there are two goddesses of Love. [Amelie, Eva, Inica, Lindsay, Jemma, Natalie]
 
 <center>
 <style type="text/css">
@@ -137,6 +135,7 @@ What Plato tells us:
 </center>
 
 - Love is directed at the Beautiful.
+- The pursuit of virtue makes it okay to submit to another man. Coping?
 
 ### Aristophanes (false start)
 
