@@ -46,7 +46,7 @@ Alcibiades is obviously deeply in love with Socrates.
 
 ## Sappho
 
-- Entry in Witting & Zerg’s [*Lesbian Peoples: Material for a Dictionary*](https://archive.org/details/lesbianpeoplesma00witt).
+- Entry in Wittig & Zerg’s [*Lesbian Peoples: Material for a Dictionary*](https://archive.org/details/lesbianpeoplesma00witt).
   - Both “sapphic” and “lesbian” allude to Sappho.
 - Not generally recognized as a lesbian until quite recently.
   - [r/SapphoAndHerFriends](https://www.reddit.com/r/SapphoAndHerFriend/comments/mim4x0/my_reading_for_gender_perspective_says_sappho/)
