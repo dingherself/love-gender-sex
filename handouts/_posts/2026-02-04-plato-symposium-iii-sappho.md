@@ -39,7 +39,7 @@ Alcibiades is obviously deeply in love with Socrates.
 ## Loose threads
 
 - Is the *Symposium* a comedy? a tragedy? a comic tragedy?
-- Why does the story of the *Symposium* need to be told 12 years ago through a game of telephone?
+- Why does the story of the *Symposium* need to be told 12 years later through a game of telephone?
   - The failure of the Sicilian Expedition immediately after the symposium.
   - The recent assassination of Alcibiades just before Glaucon and friend’s conversation.
 - The translators’ 1989 introduction: “Plato’s emphasis on homosexual love is not always easy for his twentieth-century audience to understand. It is, actually, a remarkable fact that the *Symposium*, the first [*sic*] explicit discussion of love in western literature and philosophy, begins as a discussion of homosexual love and soon leaves behind all love of individuals: the real objects of love, as the concluding parts of Socrates’ speech urge, are fame, beautiful bodies in general, beautiful souls, the beauty in laws, practices, and the sciences, and finally Beauty itself, in all its purity and generality” (xiv).
