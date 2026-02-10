@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesbian/Trans Feminism of the 60s and 70s
+title: Lesbian/Trans Feminism of the 70s
 module: "Love"
 ---
 
@@ -20,8 +20,8 @@ module: "Love"
 
 [A chronology in progress](https://github.com/dingherself/phil-324/blob/main/handouts/07-chronology.md)
 
-- : National Conference for New Politics incident => Westside group in Chicago & New York Radical Women (NYRW)
-- : more local groups emerged across the U.S.; NYRW *Notes from the First Year* & [“No More Miss America” protest](https://docs.google.com/presentation/d/1doHmsI4EoIEsu1XNSBzhwFXz9iYU4cxCkZnHM-YhmgE/edit?usp=sharing) in Atlantic City
+- 1967: National Conference for New Politics incident => Westside group in Chicago & New York Radical Women (NYRW)
+- 1968: more local groups emerged across the U.S.; NYRW *Notes from the First Year* & [“No More Miss America” protest](https://docs.google.com/presentation/d/1doHmsI4EoIEsu1XNSBzhwFXz9iYU4cxCkZnHM-YhmgE/edit?usp=sharing) in Atlantic City
 - 1969: Stonewall riots
 - 1970: “Lavender menace” incident & Radicalesbian takeover
 
