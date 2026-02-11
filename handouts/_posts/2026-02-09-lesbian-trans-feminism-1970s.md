@@ -43,8 +43,7 @@ module: "Love"
   - Lesbians love women *politically* and let their “energies . . . flow toward our sisters, not backward toward our oppressors.”
   - “Women’s liberation is a lesbian plot.”
 
-
-*Political lesbianism*: Being lesbian is a deliberate feminist political commitment.
+*Political lesbianism*: Being lesbian is a deliberate feminist political commitment; “feminism is the theory, lesbianism is the practice.”
 
 - Would there be lesbians “after the revolution”? Millet: We would all be nonbinary and bisexual.
 - Public litigation of Millet’s own sexuality.
@@ -58,7 +57,7 @@ module: "Love"
 
 ## The Brooklyn trans lit scene of the early 10s
 
-A “renaissance” of trans stories written by trans authors for a trans audience
+A “renaissance” of trans stories written by trans authors for a trans audience [Amelie, Sophia, Sitian]
 
 - Attempt to break out of the “trans memoir” genre.
 - Attempt to challenge cis-written trans characters and narratives.
@@ -73,7 +72,7 @@ Epicenter: Topside Press in Brooklyn
   - Do they talk to each other about something besides a transition-related medical procedure?
 - Imogen Binnie’s *Nevada* (2013)
 - Became a gatekeeper of trans lit
-- Failed to publish trans writers of color
+- Whiteness problem [Solomon], failure to publish trans writers of color
 - 2016 Trans Women’s Writing Workshop at Brooklyn College
   - “[T]he workshop had mostly white attendees, did not adequately accommodate attendees with disabilities, and separated the two group subdivisions based on decisions about class and prestige” (Amy Marvin, “Short-Circuited Trans Care, t4t, and Trans Scenes,” p. 20).
 
@@ -85,3 +84,5 @@ Torrey Peters’ novella project
 - *Glamour Boutique* (2017): Grown into the long-form *Detransition, Baby* (2021).
 
 *Infect* and *Masker* have recently been republished by Penguin Random House as part of the collection *Stag Dance* (2025).
+
+Is there any distance between trans literature and literature of trans stories? Reductive/flattening? [Sierra]
