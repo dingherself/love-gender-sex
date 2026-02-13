@@ -56,9 +56,7 @@ But commitment to solidarity and liberation is [*hot*](https://www.columbiaspect
 ## Chaps. 2 & 4: Seattle, contagion day
 
 - Lexi’s t4t tattoo: Even if Lexi is still mad at narrator, “I’m t4t for you in the abstract. Trans girls loving trans girls.”
-
 - Lexi is now the center of the Seattle trans girl scene, and I’m trying to be on her good side because “I want to be included” even if I can’t stand her and is embarrassed about having dated her (“Again! She won’t stop bringing up when we used to sleep together. She does it even more when she has an audience.”)
-
 - Lexi’s vs. narrator’s politics: “Down With Cis” vs. joining the cis.
 - Lexi takes in homeless trans girls.
 - Lexi’s future:
