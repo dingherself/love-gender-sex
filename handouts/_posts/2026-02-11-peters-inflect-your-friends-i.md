@@ -59,26 +59,19 @@ But commitment to solidarity and liberation is [*hot*](https://www.columbiaspect
 
 - Lexi is now the center of the Seattle trans girl scene, and I’m trying to be on her good side because “I want to be included” even if I can’t stand her and is embarrassed about having dated her (“Again! She won’t stop bringing up when we used to sleep together. She does it even more when she has an audience.”)
 
-- Lexi’s and narrator’s different politics: “Down With Cis” vs. joining the cis.
-
+- Lexi’s vs. narrator’s politics: “Down With Cis” vs. joining the cis.
 - Lexi takes in homeless trans girls.
-
 - Lexi’s future:
-
   - “In the future, everyone will be trans.”
-  - Oh, I don’t mean that everyone will be trans in some squishy philosophical way. I mean that we’re all gonna be on hormones. Even the cis. . . . Especially the cissies.”
+  - “Oh, I don’t mean that everyone will be trans in some squishy philosophical way. I mean that we’re all gonna be on hormones. Even the cis. . . . Especially the cissies.”
   - “You’ll see. When I say the future, I don’t mean some distant era. I mean in about six months.”
   - Narrator: “Lexi, that’s only funny as a fantasy.”
-
 - Raleen: Scared and traumatized trans girl, PhD student in biology, lost advisor over transition, created a vaccine to stop sex hormone production in the body.
-
   - The third shot, given by Lexi nonconsexually to narrator, is contagious.
   - Raleen begs narrator not to leave. “I didn’t know she’d start with you. I was picturing—you know—one of the frat-boys who called me faggot.”
   - Why does Lexi choose the narrator as patient zero? Lexi’s messed-up protectiveness & love? [Micaella]
   - “I’d planned to be on hormones the rest of my life, but now I’ve got no choice.”
-
 - Raleen: “I was thinking that I want to live in a world where everyone has to choose their gender.”
-
   - Flips two scripts:
     - False “social contagion” conspiracy ⇒ real biological contagion
     - Cisness as a forced imposition on trans people ⇒ Transness as a forced imposition on cis people [Eva: “exposes how much institutional power is required to sustain what we usually think of as ‘normal’ gender”]
