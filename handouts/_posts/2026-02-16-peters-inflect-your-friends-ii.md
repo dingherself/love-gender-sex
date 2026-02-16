@@ -6,11 +6,13 @@ module: "Love"
 
 ## Today
 
-- Talk through *Infect*:
-  - t4Lexi: love between Narrator and Lexi (“t4Lexi”) [15 min]
-  - t4t: (erotic vs. political) vs. ero-political love? [15 min]
-  - Forced to be free? Lexi’s decision to spread the virus [15 min]
-  - Plot twist: narrator’s decision to spread the virus [15 min]
+- *Inflect*, chronologically [20 min]: 3, 5, 6, 8, 2, 4, 10, 7, 9, 1
+- t4t [20 min]
+  - (Erotic vs. political) vs. ero-political love?
+  - t4Lexi: Love between Narrator and Lexi
+- Forced to be free? [20 min]
+  - Lexi’s decision to spread the virus
+  - Plot twist: Narrator’s decision to spread the virus
 
 - Meta question: Is there any distance between queer love and a queer person’s love of queer people? [15 min]
 
