@@ -10,6 +10,7 @@ module: "Love"
 - t4t [20 min]
   - (Erotic vs. political) vs. ero-political love: Are trans lesbians the Platonic ideal of political lesbians?
   - Can the straights love? chaps. 6–7
+  - Is t4t possible?
   - t4Lexi: Love between Narrator and Lexi
 - Forced to be free? [20 min]
   - Lexi’s decision to spread the virus
