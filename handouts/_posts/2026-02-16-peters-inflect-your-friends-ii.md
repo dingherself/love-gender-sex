@@ -13,8 +13,10 @@ module: "Love"
   - Is t4t possible?
   - t4Lexi: Love between Narrator and Lexi, “fuck t4t”?
 - Forced to be free? [20 min]
-  - Lexi’s decision to spread the virus
-  - Plot twist: Narrator’s decision to spread the virus
+  - Raleen’s reason for spreading the virus (chap. 4)
+  - Plot twist: Narrator’s reason for spreading the virus (chap. 10)
+  - Lexi’s reason for spreading the virus? (sole reference: chap. 2)
+  - Success? Failure? Is the apocalypse better or worse for the dolls?
 
 - Meta question: Is there any distance between queer love and a queer person’s love of queer people? [15 min]
 
