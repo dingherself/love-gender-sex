@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Torrey Peters, <em>Infect Your Friends and Loved Ones</em> III
+title: Torrey Peters, <em>Infect Your Friends and Loved Ones</em> II
 module: "Love"
 ---
 
