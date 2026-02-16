@@ -8,7 +8,7 @@ module: "Love"
 
 - *Inflect*, chronologically [20 min]: 3, 5, 6, 8, 2, 4, 10, 7, 9, 1
 - t4t [20 min]
-  - (Erotic vs. political) vs. ero-political love?
+  - (Erotic vs. political) vs. ero-political love: Are trans lesbians the Platonic ideal of political lesbians?
   - t4Lexi: Love between Narrator and Lexi
 - Forced to be free? [20 min]
   - Lexi’s decision to spread the virus
