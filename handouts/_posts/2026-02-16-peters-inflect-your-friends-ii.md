@@ -17,7 +17,8 @@ module: "Love"
   - Plot twist: Narrator’s reason for spreading the virus (chap. 10)
   - Lexi’s reason for spreading the virus? (sole reference: chap. 2)
   - Success? Failure? Is the apocalypse better or worse for the dolls?
-
 - Meta question: Is there any distance between queer love and a queer person’s love of queer people? [15 min]
 
-<center><blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:5rdwy6ymj2vwgnvhy42a3g7a/app.bsky.feed.post/3meupqkn7ek2s" data-bluesky-cid="bafyreihrkp4fn2zed3ssjai2sehcfwlezcg7mzidt5neicqhkgjq7dxwze" data-bluesky-embed-color-mode="system"><p lang="en">The thing that makes this extra funny to me is that I think the cat is about to say this is all moving too fast…<br><br><a href="https://bsky.app/profile/did:plc:5rdwy6ymj2vwgnvhy42a3g7a/post/3meupqkn7ek2s?ref_src=embed">[image or embed]</a></p>&mdash; Jane Espenson (<a href="https://bsky.app/profile/did:plc:5rdwy6ymj2vwgnvhy42a3g7a?ref_src=embed">@janeespenson.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:5rdwy6ymj2vwgnvhy42a3g7a/post/3meupqkn7ek2s?ref_src=embed">February 15, 2026 at 4:39 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script></center>
+<center>
+<img src="/assets/love-moving-too-fast.jpg" class="img-fluid mb-5" style="max-width: 475px;" alt="Screenshot of a Bluesky repost by Jane Espenson, in reply to a photo of a cat sitting across from the dinner table eating pasta and drinking wine on Valentine’s Day: “The thing that makes this extra funny to me is that I think the cat is about to say this is all moving too fast…”">
+</center>
