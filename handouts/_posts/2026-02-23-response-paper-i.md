@@ -8,7 +8,7 @@ tag: nodate
 Due: Friday, March 6, by midnight, to CourseWorks > Assignments\
 Format: 4–6 pages, double spaced
 
-**Assignment**: Limiting yourself to the texts we’ve read so far, please argue for/against an answer to *one* of the following questions:
+**Assignment**: Limiting yourself to the texts we’ve read so far, please argue for/against a specific answer to *one* of the following questions:
 
 1. What does it mean to love?
 2. Is Socrates a good lover?
