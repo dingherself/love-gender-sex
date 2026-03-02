@@ -12,26 +12,29 @@ module: "Gender"
 
 ## The Question<sup>®</sup>: What is a woman?
 
-Two seemingly contradictory claims: p. 
+Two seemingly contradictory claims: p. 3
 
 - If womanhood is in the uterus, how can it be “endangered”?
 
-So maybe there are no women? p. 
+So maybe there are no women? p. 4
 
 - The “American” view: We are all just human beings.
 - Beauvoir: Denying reality won’t help liberate women.
 
-Why do we worry so much more about defining womanhood than manhood? pp. –
+Why do we worry so much more about defining womanhood than manhood? pp. 5–6
 
 - Defining what it is to be a man is easy—“the man represents both the positive and the neuter.”
 - Womanhood is the lack thereof—the “Other.”
 - Womanhood is not only a *social* becoming but an *unequal* one.
 
-How did women’s subordination to men come about? pp. –
+How did women’s subordination to men come about? pp. 7–9
 
 - Not numerical disadvantage.
+- Is it not?
 - “it did not *happen*”
 - Did it *not* happen?
+- A “biological given”? cf. p. 23
+- Lesbians?
 - Still, what gave men the advantage?
 
 ## Biological data
@@ -42,7 +45,7 @@ Sex categories are organized around sexuality.
 
 Attempts to justify social difference/equality from biological difference/equality are misguided.
 
-- Brain size example: pp.  ff
+- Brain size example: pp. 44–48
 - What matters is the *meaning* that we ascribe to biology.
 - Womanhood is a response to a situation.
 
