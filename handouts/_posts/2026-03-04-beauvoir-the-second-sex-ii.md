@@ -73,7 +73,9 @@ Focusing on the chapter on love (pp. 683–708), which passages invite a social 
 
 Heterosexuality is not merely required of women; it is what being a woman *means* by dominant definition.
 
-- The 1968 Linda LeClair scandel
+- The 1968 Linda LeClair scandal: It is *unbecoming* of a woman not to conform to rules of heterosexuality.
+  - Compare: It is wrong for an Instagram influencer to steal another’s idea; it is not unbecoming of them as an Instagram influencer in the same way plagiarism is unbecoming of a scholar.
+
 - Barnard’s role as guardians of our daughters *in loco parentis*
 - [Dress](https://barnardarchives.omeka.net/items/show/84) [codes](https://barnardarchives.omeka.net/items/show/85) & [curfew rules](https://barnardarchives.omeka.net/items/show/122)
 
