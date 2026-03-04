@@ -63,7 +63,7 @@ So much to say:
   - Womanhood is not a given, but an active, situated process of creation, of becoming; it is an individual’s (sometimes-idiosyncratic) response to the situation they find themselves in (anatomical, relational, social, political etc.).
   - Bonnie Mann explains that “to ‘become’ a woman is not the same as to be made into one, as if one were exclusively a passive object being acted on by external social forces. . . . To ‘become’ is to actively take up one’s social condition in a way that is, at least potentially, spontaneous, creative and free. . . . On this view, Beauvoir could never be understood to have claimed that ‘women are made not born.’ ”
 - My complaints:
-  - It’s not clear to me that Beauvoir has a two-way sex/gender distinction (compare pp. 8–9 with p. 23)
+  - It’s not clear to me that Beauvoir has a two-way sex/gender distinction (compare, e.g., pp. 8–9 with p. 23).
   - It’s also not clear to me that Beauvoir *critically affirms* sex as a biological given: while a biological fact may appear necessary and not up to us, “[i]n truth, nature is no more an immutable given than is historical reality” (think muscles).
   - It’s still not clear to me that Beauvoir thinks of womanhood as a role, rather than a way of life (a “lifestyle”).
 
