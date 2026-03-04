@@ -29,7 +29,9 @@ module: "Gender"
 .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-  <table class="tg"><thead>
+  <div class="table-responsive">
+  <center>
+  <table class="tg mb-5"><thead>
     <tr>
       <th class="tg-0lax"></th>
       <th class="tg-baqh"><span style="font-weight:bold">Sex</span></th>
@@ -48,6 +50,8 @@ module: "Gender"
     </tr>
   </tbody>
   </table>
+  </center>
+  </div>
 
 So much to say:
 
