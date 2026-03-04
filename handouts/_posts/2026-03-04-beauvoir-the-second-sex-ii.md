@@ -90,7 +90,7 @@ Heterosexual love is sold to women as a path to salvation/transcendence, but it�
 - But ultimately men are interested in other consciousnesses, not things; love requires lovers to see and treat each other as equals.
 - Also, men are not gods and cannot set women free (“You shouldn’t believe in Prince Charming. Men are just poor things.”).
 
-**The problem**: Being a free, autonomous human being is incompatible with being a woman (pp. 5–6, 723–25).
+**The problem**: Being a free human being is incompatible with being a woman (pp. 5–6, 723–25).
 
 - But *I* am powerless to change the social definition of womanhood, and I still need to live my life—and I still want to be free.
 
