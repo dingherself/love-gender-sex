@@ -103,13 +103,7 @@ Patricia Donahoe’s recommendations are highly illustrative: “Genetic females
 > The Secretary [of Health and Human Services] should pursue a robust agenda to protect the fundamental right to life, protect conscience rights, and uphold bodily integrity rooted in biological realities, not ideology. . . .
 >
 > Radical actors inside and outside government are promoting harmful identity
-> politics that replaces biological sex with subjective notions of “gender identity” and
-> bases a person’s worth on his or her race, sex, or other identities. This destructive
-> dogma, under the guise of “equity,” threatens American’s fundamental liberties as
-> well as the health and well-being of children and adults alike. The next Secretary
-> must ensure that HHS programs protect children’s minds and bodies and that
-> HHS programs respect parents’ basic right to direct the upbringing, education,
-> and care of their children. (p. 450)
+> politics that replaces biological sex with subjective notions of “gender identity” and bases a person’s worth on his or her race, sex, or other identities. This destructive dogma, under the guise of “equity,” threatens American’s fundamental liberties as well as the health and well-being of children and adults alike. The next Secretary must ensure that HHS programs protect children’s minds and bodies and that HHS programs respect parents’ basic right to direct the upbringing, education, and care of their children. (p. 450)
 
 Executive Order 14168: [Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
 
