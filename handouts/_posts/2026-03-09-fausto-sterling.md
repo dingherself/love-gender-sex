@@ -83,8 +83,9 @@ Why? Pp. 64–65.
 ### So, how do you determine the “true sex”?
 
 Patricia Donahoe’s recommendations are highly illustrative: “Genetic females should always be raised as females, preserving reproductive potential, regardless of how severely the patients are virilized. In the genetic male, however, the gender of assignment is based on the infant’s anatomy, predominantly the size of the phallus” (p. 57).
-
-[The Phall-O-Meter <sup>&reg;</sup>](https://sfonline.barnard.edu/ins-kromminga/)
+- The “standing up to pee” test: “Young boys should be able to pee standing up and thus to ‘feel normal’ during little-boy peeing contests.”
+- The “vaginal penetration” test: “[A]dult men, meanwhile, need a penis big enough for vaginal penetration during sexual intercourse.”
+- [The Phall-O-Meter <sup>&reg;</sup>](https://sfonline.barnard.edu/ins-kromminga/)
 
 <center>
 <img src="/assets/sex-assignment-flowchart.png" class="img-fluid mb-5" style="max-width: 675px;">
