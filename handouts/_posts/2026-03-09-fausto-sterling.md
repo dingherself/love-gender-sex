@@ -87,7 +87,7 @@ Patricia Donahoe’s recommendations are highly illustrative: “Genetic females
 [The Phall-O-Meter <sup>&reg;</sup>](https://sfonline.barnard.edu/ins-kromminga/)
 
 <center>
-<img src="/assets/sex-assignment-flowchart.png" class="img-fluid mb-5" style="max-width: 475px;">
+<img src="/assets/sex-assignment-flowchart.png" class="img-fluid mb-5" style="max-width: 675px;">
 </center>
 
 ### Some more recent developments
