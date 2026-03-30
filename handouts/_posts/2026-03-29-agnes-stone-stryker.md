@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Study of Trans phenomenon to Trans Studies: Agnes, Stone, and Stryker"
+title: "From Study of Trans Phenomenon to Trans Studies: Agnes, Stone, and Stryker"
 module: "Gender"
 ---
 
