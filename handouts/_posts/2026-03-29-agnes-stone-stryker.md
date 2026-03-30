@@ -58,7 +58,7 @@ module: "Gender"
 
 Sandy Stone: “How, then, can the transsexual speak? If the transsexual were to speak, what would s/he say?” (1991, 295)
 
-> The people who have no voice in this theorizing are the transsexuals themselves. As with males theorizing about women from the beginning of time, theorists of gender have seen transsexuals as possessing something less than agency. As with “genetic” “women,” transsexuals are infantilized, considered too illogical or irresponsible to achieve true subjectivity, or clinically erased by diagnostic criteria; or else, as constructed by some radical feminist theorists, as robots of an insidious and menacing patriarchy, an alien army designed and constructed to infiltrate, pervert and destroy “true” women. () 
+> The people who have no voice in this theorizing are the transsexuals themselves. As with males theorizing about women from the beginning of time, theorists of gender have seen transsexuals as possessing something less than agency. As with “genetic” “women,” transsexuals are infantilized, considered too illogical or irresponsible to achieve true subjectivity, or clinically erased by diagnostic criteria; or else, as constructed by some radical feminist theorists, as robots of an insidious and menacing patriarchy, an alien army designed and constructed to infiltrate, pervert and destroy “true” women.
 
 Susan Stryker: Trans studies positions trans people as subjects rather than objects of study/knowledge.
 - “Yet if trans people are denied the tools to speak, how can their inability to produce a counterdiscourse be held against them?” (Danielle)
