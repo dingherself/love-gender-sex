@@ -33,7 +33,7 @@ module: "Gender"
     - Psychiatric diagnosis
     - “Real-life experience” (RLE)
     - One referral letter for hormones & top surgery
-    - Two referral letter for bottom surgery
+    - Two referral letters for bottom surgery
 - New/informed consent model of care: Popularized by high-volume LGBTQ+ community health providers such as Callen-Lorde (NYC) and Fenway (Boston).
   - Standard practice for university and community providers in the US
   - Not standard practice internationally
