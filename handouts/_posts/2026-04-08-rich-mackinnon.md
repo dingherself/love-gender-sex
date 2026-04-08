@@ -40,6 +40,7 @@ The deeper problem: Rape is “regulated” (“FMMS-II,” p. 651) and legalize
   - “Most rapes, as women live them, will not be seen to violate women until sex and violence are confronted as mutually definitive. It is not only men convicted of rape who believe that the only thing they did different from what men do all the time is get caught.”
 - So far, rape has been conceived as an inequality *between* women and men (for Brownmiller, a biological inequality); *sexuality* has not been itself thought to be unequal or unjust.
   - “Having sex” does not have the same meaning for men and women. Men gain something by having sex; women lose something by having sex. This is because sex is something men do *to* women.
+  - Rape needs to be redefined as what rape means to women on women’s terms.
   - The point is to consider sexuality as a political institution and subject it to political critique.
   - Sexuality is not to be taken for granted: What’s sexual may not involve sex per se (e.g., non-genital body parts, power/violence), whereas sex need not be sexual (e.g., the lesbian sex that “doesn’t count”).
 
