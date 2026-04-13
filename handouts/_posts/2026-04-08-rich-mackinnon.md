@@ -44,10 +44,12 @@ The deeper problem: Rape is “regulated” (“FMMS-II,” p. 651) and legalize
   - The point is to consider sexuality as a political institution and subject it to political critique.
   - Sexuality is not to be taken for granted: What’s sexual may not involve sex per se (e.g., non-genital body parts, power/violence), whereas sex need not be sexual (e.g., the lesbian sex that “doesn’t count”).
 
-To me, this is the chief radical feminist complaint against the Barnard sex conference: Is there a sexuality innocuous enough to make genuinely liberatory sexual pleasure possible under patriarchy?
+To me, this is the chief radical feminist complaint against the Barnard sex conference: If sexual desires are themselves political rather than merely personal or biological, then we need to ask if there is a sexuality innocuous enough to make genuinely liberatory sexual pleasure possible under patriarchy.
 
 - Is sex liberatory? Is sex a mechanism of patriarchy?
 - Is more sex more liberatory?
+
+MacKinnon:
 
 > If being for another is the whole of women’s sexual construction, it can be no more escaped by separatism, men’s temporary concrete absence, than eliminated or qualified by permissiveness, which, in this context, looks like women emulating male roles. As Susan Sontag said: “The question is: *what* sexuality are women to be liberated to enjoy? Merely to remove the onus placed upon the sexual expressiveness of women is a hollow victory if the sexuality they become freer to enjoy remains the old one that converts women into objects . . .If beingfor another is
 > the whole of women's sexual construction, it can be no more escaped by
@@ -61,6 +63,10 @@ To me, this is the chief radical feminist complaint against the Barnard sex conf
 > and dehumanize someone else.” (“FMMS-I,” pp. 533–34)
 
 For sex to be liberatory, it has to become a qualitatively different *kind* of sex.
+
+Nava:
+
+> I found MacKinnon’s argument convincing but it’s troubling because her  theory tells you that you can’t trust your own sense of desire. . . . If what feels like mutual desire and choice is always already shaped by domination, then there isn’t a clear way to differentiate between what’s imposed and what’s chosen. Someone could argue that that’s the point, and that domination is just that pervasive but if every possible experience can be explained in the same way, then you can’t really push back against it. Being placed in a position where her idea explains everything, we’re left with no ground to stand on.
 
 ## The radical feminist analysis of sex
 
@@ -92,4 +98,9 @@ Key claims:
   - Abolish sweatshops; don’t make them more consensual.
   - Heterosexual love also functions to control women? Domestic abuse cases.
 - The role of pornography: For MacKinnon, pornography is a primary social mechanism of (hetero)sexual objectification.
-  - Pornography socially defines what sex is and what acceptable sex is; it does not merely “depict” (Eva) imageries “offensive” to women.
+  - Pornography socially defines what sex is and what acceptable sex is; it does not merely “depict” imageries “offensive” to women (Eva).
+
+The porn problem:
+
+- Rubin: Against sex negativity ⇒ sex positivity ⇒ porn positivity.
+- Wittig: This does not change what sexuality *is*.
