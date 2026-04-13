@@ -13,7 +13,7 @@ module: "Gender"
 
 ## The sentence that set the world on fire
 
-“On ne naît pas femme: on le devient.” [Elsa]
+“On ne naît pas femme : on le devient.” [Elsa]
 
 - *Literal translation*: “One is not born woman: one becomes it.” 
 - *Popular translation*: “Women are made, not born.” 
