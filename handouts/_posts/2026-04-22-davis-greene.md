@@ -33,6 +33,12 @@ module: "Sex"
 
 ## Rape as a mechanism of state violence & social control
 
+With rare exceptions, trans women are incarcerated in men’s facilities, where most experience sexual and physical assault.
+
+- According to a recent [*NBC News* investigation of 45 state prison systems](https://www.nbcnews.com/feature/nbc-out/transgender-women-are-nearly-always-incarcerated-men-s-putting-many-n1142436), only 13 trans women in total live in women’s facilities.
+- [DOJ survey data](https://bjs.ojp.gov/content/pub/pdf/svpjri1112.pdf#page=9) suggest that as many as 39.9% of trans persons in federal and state custody were sexually assaulted in the preceding twelve months (the [baseline prevalence](https://bjs.ojp.gov/content/pub/pdf/svpjri1112.pdf#page=9) was estimated to be 4.0% for all incarcerated persons).
+- For trans women in particular, [a recent study of the California system](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12221) put the rate at 69.4% for sexual assault and 80.3% for physical assault throughout incarceration.
+
 Trans women, as women, provide heterosexual sex—a scarce, prohibited, and valuable good in men’s prisons.
 
 - Note that a biological analysis of rape can’t explain any of this.
