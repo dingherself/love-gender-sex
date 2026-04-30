@@ -37,7 +37,7 @@ Format: 5–8 pages, double spaced
 
 - You should actually use the app for a while. Pay special attention to the hidden logic of the app’s operation, including whether this lives up to the explicit marketing: how the app approaches gender and sexual orientation, how it designs and presents profiles, how its matching system works, etc.
 - There’s a lot to say, so focus on just the one thing that you find the most interesting and which you think would also be most interesting to your classmates!
-- Be sure to include a critical reflection on the kind(s) of sex, gender, and love that the dating app in your view steers its users toward.
+- Be sure to include a critical reflection on the kind(s) of love, gender, and sex that the dating app in your view steers its users toward.
 - Be sure also to engage with concepts, ideas, and/or views from the class.
 
 ## Wild card
