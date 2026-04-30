@@ -27,7 +27,6 @@ Format: 5–8 pages, double spaced
 
 - Do some intense (self-)observations for at least a week: How do you experience love, gender, and sex? How are they more or less implicitly discussed and represented as you move around the world and go about your life? How do they shape and structure the places we inhabit?
 - There’s a lot to say, so focus on just the one thing that you find the most interesting and which you think would also be most interesting to your classmates!
-- Be sure to include a critical reflection on the kind(s) of sex, gender, and love that the dating app in your view steers its users toward.
 - Be sure also to engage with concepts, ideas, and/or views from the class.
 
 ## Love at the right swipe
