@@ -33,7 +33,7 @@ Format: 5–8 pages, double spaced
 
 Format: 5–8 pages, double spaced
 
-**Assignment**: Analyze carefully and critically one (and just one!) way in which sex, gender, and/or love is constructed in a dating app of your choice.
+**Assignment**: Analyze carefully and critically one (and just one!) way in which love, gender, and/or sex is constructed in a dating app of your choice.
 
 - You should actually use the app for a while. Pay special attention to the hidden logic of the app’s operation, including whether this lives up to the explicit marketing: how the app approaches gender and sexual orientation, how it designs and presents profiles, how its matching system works, etc.
 - There’s a lot to say, so focus on just the one thing that you find the most interesting and which you think would also be most interesting to your classmates!
