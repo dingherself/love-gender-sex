@@ -15,7 +15,7 @@ module: "Gender"
 ### (1) “Transsexualism” or “gender identity disorder”
 
 <center class="mb-5">
-<a href='/assets/problem-non-binary.png'><img src="/assets/problem-non-binary.png" class="img-fluid" style="max-width: 500px;" alt="Problems: Allergic rhinitis; Asthma; non-binary - amab"></a>
+<a href='/assets/problem-non-binary.png'><img src="/assets/problem-non-binary.png" class="img-fluid rounded" style="max-width: 500px;" alt="Problems: Allergic rhinitis; Asthma; non-binary - amab"></a>
 </center>
 
 - Renamed “gender dysphoria” (*DSM-V*, 2013) and “gender incongruence” (*ICD-11*, 2018)
